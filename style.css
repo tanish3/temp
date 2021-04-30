@@ -75,6 +75,9 @@ ul {
   overflow: hidden;
 }
 
+.media a {
+  text-decoration: none;
+}
 
 .media i {
   display: block;
